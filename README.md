@@ -1,4 +1,4 @@
-# Sebra 🦓
+# Sebra 🦓 [(Winner of HackLibra)](https://medium.com/@hacklibra/hacklibra-winners-8da1a9124628)
 Sebra is a tool for online vendors to collect payments/donations through Libra. Vendors (businesses, content creators, musicians etc) can generate a code snippet to be integrated with their blog/online store etc. Sebra aims to create a simple user experience that allows users to make simple payments and vendors to get paid without dealing with the complexities of public/private keys. 
 
 Workflow:
